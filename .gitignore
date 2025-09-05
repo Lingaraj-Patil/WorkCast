@@ -45,6 +45,9 @@ artifacts/
 checkpoints/
 models/
 
+!resume_classifier_model.joblib
+!tfidf_vectorizer.joblib
+!label_encoder.joblib
 # Render/Heroku specific
 *.db
 *.sqlite3
