@@ -1,7 +1,0 @@
-Flask
-seaborn
-flask-cors
-joblib
-scikit-learn
-pandas
-gunicorn
